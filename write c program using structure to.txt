@@ -1,0 +1,2 @@
+write c program using structure to details of a book(title,author,prize)-5books,and print the details
+using typedf for structure employee with the members id,name and salary create an array  
