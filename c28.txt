@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+int sum(int a, int b) {     // function definition
+    return a + b;           // function body
+}
+
+int main() {
+    int result = sum(10, 20);  // function call
+    printf("Sum = %d", result);
+    return 0;
+}
